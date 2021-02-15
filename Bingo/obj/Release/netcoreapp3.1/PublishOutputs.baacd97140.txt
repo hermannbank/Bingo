@@ -1,0 +1,5 @@
+C:\MyCode\PlayGround\Bingo\Bingo.exe
+C:\MyCode\PlayGround\Bingo\Bingo.dll
+C:\MyCode\PlayGround\Bingo\Bingo.deps.json
+C:\MyCode\PlayGround\Bingo\Bingo.runtimeconfig.json
+C:\MyCode\PlayGround\Bingo\Bingo.pdb

@@ -1,0 +1,2 @@
+C:\MyCode\PlayGround\Bingo\Publish\Bingo.pdb
+C:\MyCode\PlayGround\Bingo\Publish\Bingo.exe
