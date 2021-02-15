@@ -1,0 +1,13 @@
+C:\MyCode\PlayGround\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.exe
+C:\MyCode\PlayGround\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.deps.json
+C:\MyCode\PlayGround\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.runtimeconfig.json
+C:\MyCode\PlayGround\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.runtimeconfig.dev.json
+C:\MyCode\PlayGround\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.dll
+C:\MyCode\PlayGround\Bingo\Bingo\bin\Debug\netcoreapp3.1\Bingo.pdb
+C:\MyCode\PlayGround\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.csprojAssemblyReference.cache
+C:\MyCode\PlayGround\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.AssemblyInfoInputs.cache
+C:\MyCode\PlayGround\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.AssemblyInfo.cs
+C:\MyCode\PlayGround\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.csproj.CoreCompileInputs.cache
+C:\MyCode\PlayGround\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.dll
+C:\MyCode\PlayGround\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.pdb
+C:\MyCode\PlayGround\Bingo\Bingo\obj\Debug\netcoreapp3.1\Bingo.genruntimeconfig.cache
